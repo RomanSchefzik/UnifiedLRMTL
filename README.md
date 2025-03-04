@@ -14,6 +14,6 @@ library(devtools)
 install_github("RomanSchefzik/UnifiedLRMTL")
 ```
 # Example of usage
-Examples for a usage of the functions will be provided in the respective function documentations.
+The usage of the functions will be covered in the respective function documentations. Further, an explicit example will be given here.
 
 # References
